@@ -1,7 +1,7 @@
 # MazeGame
 Solve a maze game in Virtual Reality
 
-I used Probuilder, Progrid, XR Interaction Toolkit to design a maze experience for Virtual Reality. 
+I used Probuilder, Progrid, and the Unity XR Interaction Toolkit to design a maze experience for Virtual Reality. 
 I used the Unity OpenVR plugin so that the game would work cross platform. For assets to create the maze I 
 used the Snaps Prototype Office asset pack from the unity asset store 
 (Link - https://assetstore.unity.com/packages/3d/environments/snaps-prototype-office-137490)
